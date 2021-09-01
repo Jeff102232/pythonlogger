@@ -1,0 +1,9 @@
+2021-09-01 23:55:21 DEBUG 29184-4551519744 | main.py:18 | workid_dedault:0 | not set workid: main-thread 
+2021-09-01 23:55:21 DEBUG 29184-4551519744 | main.py:19 | workid_dedault:0 | test logging.getLogger 
+2021-09-01 23:55:21 WARNING 29184-4551519744 | main.py:22 | main-thread:0 | use workid: main-thread
+2021-09-01 23:55:21 WARNING 29184-4551519744 | main.py:23 | main-thread:0 | test format 2021-09-01 23:55:21.456173
+2021-09-01 23:55:21 CRITICAL 29184-4551519744 | main.py:27 | private-workid:0 | use private workid
+2021-09-01 23:55:21 INFO 29184-123145425985536 | thread.py:11 | sunThread:1 | run in sunThread
+2021-09-01 23:55:21 INFO 29184-123145431240704 | thread.py:11 | sunThread:2 | run in sunThread
+2021-09-01 23:55:22 INFO 29184-123145431240704 | thread.py:11 | sunThread:3 | run in sunThread
+2021-09-01 23:55:22 INFO 29184-123145425985536 | thread.py:11 | sunThread:4 | run in sunThread
